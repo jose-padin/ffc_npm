@@ -2,6 +2,9 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "jose.padin",
 	"description": "Learning npm",
+	"keywords": ["learning", "npm", "freecodecamp"],
+	"license": "MIT",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
